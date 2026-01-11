@@ -1,0 +1,5 @@
+GeneSymbol	EntrezID	Coefficient
+ADRM1	11047	4.7
+MICB	4277	3.6
+PSMD13	5719	4.8
+RFXANK	8625	-3.7

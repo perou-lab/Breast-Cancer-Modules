@@ -1,0 +1,97 @@
+CLID	Name	4180	4175	4173	4142	3481	SCP 6	SCP 21	SCP 26	Parental	SCP 25	SCP 46	SCP 2	1833
+"(Pcorr_Breast2Lung_LM2=LM2 like, Pcorr_Breast2Lung_Parental=Parental like)"	NaN	Pcorr_Breast2Lung_LM2_Correlation_Nature.2005_PMID.16049480	Pcorr_Breast2Lung_LM2_Correlation_Nature.2005_PMID.16049480	Pcorr_Breast2Lung_LM2_Correlation_Nature.2005_PMID.16049480	Pcorr_Breast2Lung_LM2_Correlation_Nature.2005_PMID.16049480	Pcorr_Breast2Lung_LM2_Correlation_Nature.2005_PMID.16049480	Pcorr_Breast2Lung_Parental_Correlation_Nature.2005_PMID.16049480	Pcorr_Breast2Lung_Parental_Correlation_Nature.2005_PMID.16049480	Pcorr_Breast2Lung_Parental_Correlation_Nature.2005_PMID.16049480	Pcorr_Breast2Lung_Parental_Correlation_Nature.2005_PMID.16049480	Pcorr_Breast2Lung_Parental_Correlation_Nature.2005_PMID.16049480	Pcorr_Breast2Lung_Parental_Correlation_Nature.2005_PMID.16049480	Pcorr_Breast2Lung_Parental_Correlation_Nature.2005_PMID.16049480	Pcorr_Breast2Lung_Parental_Correlation_Nature.2005_PMID.16049480
+2012	Epithelial membrane protein 1	1.604	1.43	1.526	1.54	1.562	-0.057	0.131	-0.091	-0.086	-0.476	0	-0.525	-0.009
+466	Activating transcription factor 1	0.584	0.664	0.415	0.551	0.203	-0.049	-0.734	-0.449	-0.995	-0.347	0.36	-0.232	0
+387509	G protein-coupled receptor 153	1.071	1.691	1.643	0.888	1.36	-1.934	-2.172	0.04	-0.296	-3.323	-0.111	-1.198	0
+1440	Colony stimulating factor 3 (granulocyte)	5.022	5.083	3.107	3.123	3.261	-0.404	-1.006	-0.34	-1.172	0	-1.07	2.858	-0.969
+218	"Aldehyde dehydrogenase 3 family, memberA1"	1.932	2.066	3.012	0.503	1.945	-1.922	-0.698	0	-0.301	-1.863	-0.74	-2.01	0.286
+7805	Lysosomal associated multispanning membrane protein 5	1.991	2.075	2.085	1.963	2.133	-1.709	-0.81	-0.378	0	0.634	-0.928	-0.194	-0.21
+2069	Epiregulin	2.747	2.67	2.117	2.142	2.069	-1.317	-0.369	-0.476	-0.575	-0.14	0	-1.898	0.695
+4155	Myelin basic protein	-0.364	-0.854	-0.489	-0.686	-0.335	0.942	1.312	1.058	1.526	-1.222	0.464	0	0.766
+4313	"Matrix metallopeptidase 2 (gelatinase A, 72kDa gelatinase, 72kDa type IV collagenase)"	1.705	1.086	0.844	-0.072	1.311	0.071	-2.811	0	-0.652	-0.728	-0.476	-1.046	0.023
+169611	Olfactomedin-like 2A	-0.228	0.666	0	0.02	-0.54	1.736	1.844	0.903	1.891	-0.904	-0.433	-1.452	-0.946
+8573	Calcium/calmodulin-dependent serine protein kinase (MAGUK family)	-1.491	-0.63	-0.395	-0.951	-0.495	0.621	0.887	1.34	1.8	0	0.522	0.857	-0.344
+6678	"Secreted protein, acidic, cysteine-rich (osteonectin)"	6.069	6.346	6.056	6.154	0.245	-2.607	-2.178	0	-2.449	-0.209	-0.602	0.23	-2.915
+3669	Interferon stimulated exonuclease gene 20kDa	1.786	1.234	2.315	-0.426	1.742	-0.32	-1.219	0	-0.486	1.353	-0.032	0.018	-0.284
+51360	"Membrane-bound transcription factor peptidase, site 2"	-0.852	0	-0.55	0.094	-0.523	0.228	-0.145	0.7	1.38	-0.215	-0.242	0.531	0.373
+28231	"Solute carrier organic anion transporter family, member 4A1"	0.777	1.21	1.226	-0.236	0.445	-1.756	-2.141	-2.152	-0.473	0	0.202	0.576	-0.427
+5270	"Serpin peptidase inhibitor, clade E (nexin, plasminogen activator inhibitor type 1), member 2"	1.055	1.331	1.04	0.993	0.532	-0.764	-2.122	-1.621	-0.996	0	0	-0.479	-0.084
+30014	"Sperm protein associated with the nucleus, X-linked, family member A1"	0.425	-0.19	0	2.202	1.769	-6.722	-8.426	-2.235	-2	2.107	1.567	-0.567	1.416
+1364	Claudin 4	-0.444	-0.538	-0.676	-0.426	1.1	0.454	0.678	1.598	1.231	-0.136	-1.805	0.503	0
+5154	Platelet-derived growth factor alpha polypeptide	0.768	1.067	0.91	0.406	0	-0.677	-1.254	-0.679	-1.349	0.436	-0.312	0.148	-0.679
+1435	Colony stimulating factor 1 (macrophage)	0	-1.338	-0.006	-1.06	2.117	-2.432	0.104	2.283	2.357	-0.466	-2.528	0.791	0.844
+2919	"Chemokine (C-X-C motif) ligand 1 (melanoma growth stimulating activity, alpha)"	1.214	0	0.031	-0.748	1.292	-5.276	-1.727	1.514	-1.442	-1.515	1.415	1.926	-0.245
+5920	Retinoic acid receptor responder (tazarotene induced) 3	-0.114	-0.251	-0.808	-1.143	0.474	1.01	-0.136	3.178	1.914	1.31	0.787	0	-1.196
+8743	"Tumor necrosis factor (ligand) superfamily, member 10"	0.213	-1.45	-1.227	-2.263	0.118	-0.327	-0.647	2.261	1.161	0	0.251	0.25	-2.375
+7739	Zinc finger protein 185 (LIM domain)	0.146	0.794	0.705	0	0.042	-0.219	-0.348	-0.853	-0.965	0	0.805	0.65	-0.386
+8942	Kynureninase (L-kynurenine hydrolase)	1.472	0.607	0.493	0.902	1.749	-3.932	-3.155	-0.877	-1.684	-1.727	0	0.737	-0.088
+834	"Caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)"	1.296	0.74	0.679	-0.696	1.19	-3.981	-2.751	-1.396	-0.859	0.234	0.77	-2.968	0
+182	Jagged 1 (Alagille syndrome)	1.076	0.922	0.725	0.591	0.738	-1.437	-1.914	-1.121	-1.188	-0.392	0.367	0	-0.425
+7852	Chemokine (C-X-C motif) receptor 4	0.104	-0.85	-0.771	-1.513	-1.043	-3.272	-0.071	0	3.444	5.658	5.509	4.76	4.448
+8226	Haloacid dehalogenase-like hydrolase domain containing 1A	-0.94	-1.011	-0.892	-0.685	-0.579	1.53	1.434	1.176	1.023	0	0.182	0.635	-0.145
+23002	Dishevelled associated activator of morphogenesis 1	0.028	-0.501	-0.296	0	-0.607	2.018	1.19	2.168	1.68	-0.321	0.203	-0.084	-0.625
+60489	"apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 3G"	1.55	1.94	1.211	-0.172	0.864	-2.545	-0.367	-0.238	-0.75	0.964	0	0.389	-1.336
+6091	"Roundabout, axon guidance receptor, homolog 1 (Drosophila)"	0	0.186	-0.14	-0.441	0.379	-6.249	-6.921	-4.751	-2.194	0.183	0.645	0.857	0.054
+3598	"Interleukin 13 receptor, alpha 2"	4.703	6.019	5.718	1.888	-0.835	-3.09	-0.159	-0.218	0	-2.591	1.704	-2.764	2.272
+4628	"Myosin, heavy chain 10, non-muscle"	-1.657	-1.165	-0.995	-0.86	-1.232	0.803	-0.214	0	0.766	0.758	1.034	0.53	0.46
+4837	Nicotinamide N-methyltransferase	-0.734	-1.779	-2.049	-1.745	-1.46	2.443	0	0.885	0.622	2.636	0.718	0.284	-0.943
+4237	Microfibrillar-associated protein 2	1.138	1.716	1.732	1.585	0.664	-1.532	-1.121	-0.703	-0.029	0	-2.596	-0.539	0.366
+9882	"TBC1 domain family, member 4"	-0.591	-0.753	-0.604	0	-0.395	0.379	0.97	0.587	1.22	0.661	-0.157	-0.401	1.494
+1277	"Collagen, type I, alpha 1"	3.819	3.492	2.866	2.97	1.507	-2.463	-1.443	-0.644	-0.903	0	-0.201	0.319	-0.298
+3115	"Major histocompatibility complex, class II, DP beta 1"	-0.707	-2.371	-1.171	-2.602	0	-0.064	0.315	2.418	0.883	0.238	0.303	0.151	-1.75
+10150	Muscleblind-like 2 (Drosophila)	0.08	-0.201	0	-0.93	0.351	0.659	-0.039	0.72	1.709	-0.559	-2.591	-0.413	1.043
+4312	Matrix metallopeptidase 1 (interstitial collagenase)	1.184	0	-0.291	0.786	-1.758	-6.947	-9.776	-5.736	-3.259	2.677	1.586	2.435	1.935
+3397	"Inhibitor of DNA binding 1, dominant negative helix-loop-helix protein"	0.95	0.903	1.388	2.072	2.03	0	-0.577	-0.717	-0.473	-0.124	-0.907	0.68	-1.269
+4848	"CCR4-NOT transcription complex, subunit 2"	0.553	0.856	0.717	0.475	0.665	-1.184	-0.034	0.548	-0.86	-0.929	0	-0.937	-0.241
+4147	Matrilin 2	-1.739	-2.719	-1.417	-1.66	-2.243	1.128	0.994	2.869	0.746	1.281	0.532	0	-0.565
+4121	"Mannosidase, alpha, class 1A, member 1"	0.3	0.633	0.35	0.657	1.098	-2.08	-2.057	-1.503	-1.341	-0.126	0.081	0	-0.954
+84612	Par-6 partitioning defective 6 homolog beta (C. elegans)	-1.016	-0.787	-0.375	-0.77	0	1.36	2.022	2.381	2.989	1.109	-1.074	-0.558	0.782
+1438	"Colony stimulating factor 2 receptor, alpha, low-affinity (granulocyte-macrophage)"	-0.248	-1.155	-0.345	-0.615	0	1.487	1.603	1.932	1.157	0.593	0.386	-0.359	-1.266
+5743	Prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase)	0.817	0.494	-0.041	0.522	0.829	-2.285	-1.886	-3.411	-2.132	-1.087	0.84	0.917	0
+3418	"Isocitrate dehydrogenase 2 (NADP+), mitochondrial"	-1.001	0	-1.124	-0.486	-0.216	0.453	0.874	0.446	1.071	1.273	-0.207	0.324	-0.868
+10085	EGF-like repeats and discoidin I-like domains 3	-1.065	-0.701	-1.526	0.469	0.659	0	-0.865	0.212	1.088	0.058	-0.293	-0.152	1.149
+8530	Cystatin F (leukocystatin)	-1.559	-1.587	-2.04	0.544	-0.511	0.704	1.743	2.22	2.103	0.944	0	-0.016	-0.303
+10591	Chromosome 6 open reading frame 108	-1.64	-1.612	-2.129	-1.664	-0.728	0.271	0.91	0.793	1.339	0.678	-2.704	0.48	0
+2052	"Epoxide hydrolase 1, microsomal (xenobiotic)"	-0.293	0	0.284	-0.091	0.028	0.591	0.565	1.647	1.835	-0.312	-1.406	-0.393	-0.278
+10974	Chromosome 10 open reading frame 116	1.61	2.786	2.688	0.717	2.655	-1.298	-2.601	-0.889	0	-0.439	-3.692	0.803	-1.019
+2948	Glutathione S-transferase M4	-0.319	-0.915	-1.358	-1.368	-0.381	0.154	0.9	1.439	1.239	0	-0.513	0.412	0.562
+2040	Stomatin	0.34	0.762	1.039	1.133	0.651	0	-0.847	-1.658	-1.085	0.034	-0.034	-1.039	-0.72
+2934	"Gelsolin (amyloidosis, Finnish type)"	0.12	0.188	1.207	-1.877	1.58	0	-0.024	1.752	2.69	-1.495	-1.877	-0.331	-2.296
+725	"Complement component 4 binding protein, beta"	-2.168	-2.46	-3.41	-1.216	-0.924	0.647	0	1.033	0.142	1.272	1.472	-0.062	0.83
+3371	Tenascin C (hexabrachion)	0.237	1.115	0.176	0.269	0.003	-1.617	-3.073	-0.927	-2.258	-1.056	0	0.519	-1.279
+81557	"Melanoma antigen family D, 4"	1.896	2.068	2.093	0.399	2.08	-1.429	-3.499	-2.067	-1.798	0.084	0	-0.511	-2.576
+3113	"Major histocompatibility complex, class II, DP alpha 1"	-0.278	-1.109	-0.72	-1.155	0.49	0.55	-0.019	3.133	2.363	0	1.008	1.341	-1.681
+9201	Doublecortin and CaM kinase-like 1	1.728	1.825	1.97	1.558	0.55	-3.338	0	-0.003	-0.005	0.398	-0.014	-0.141	-2.93
+79686	Chromosome 14 open reading frame 139	0.896	1.884	1.7	1.813	0.677	0.39	-0.244	-0.611	-0.241	-0.446	-0.176	-1.557	0
+3123	"Major histocompatibility complex, class II, DR beta 1"	-0.437	-1.194	-0.899	-1.002	0.764	0	-0.265	1.492	1.364	0.362	0.658	1.061	-1.336
+25797	Glutaminyl-peptide cyclotransferase (glutaminyl cyclase)	1.437	0.409	0.599	0.235	-0.097	-0.497	-0.798	0	-1.079	0.067	0.302	-0.017	-3.41
+728695	"SPANX family, member B1"	0.757	-0.14	-0.102	2.959	1.971	-3.34	-4.258	-0.96	-1.797	2.567	1.901	0	1.048
+6659	SRY (sex determining region Y)-box 4	1.299	1.734	1.562	0	2.088	-2.994	-4.953	-3.024	-0.544	-0.328	1.466	1.015	-0.694
+23705	"Immunoglobulin superfamily, member 4"	0.893	1.31	0	-0.722	0.876	-0.093	-1.375	-1.084	-0.875	0.226	0.013	0.831	-0.782
+8623	Acetylserotonin O-methyltransferase-like	-2.163	-1.946	-2.465	-0.748	-0.606	1.139	1.415	0.899	1.146	0.391	-0.6	0.279	0
+6624	"Fascin homolog 1, actin-bundling protein (Strongylocentrotus purpuratus)"	1.1	1.664	1.646	0.504	0.826	-3.099	-1.689	-1.212	-0.522	0	-1.981	-0.159	0.712
+3887	keratin 81	0.227	0.745	0.578	2.053	1.824	-1.928	-4.248	-2.252	-2.059	0	-2.358	0.351	-2.328
+2202	EGF-containing fibulin-like extracellular matrix protein 1	-0.92	-2.357	-1.892	-2.463	-1.434	0.91	0	0.634	0.437	0.486	0.964	0.296	-1.275
+9282	"Cofactor required for Sp1 transcriptional activation, subunit 2, 150kDa"	-0.33	-0.485	-0.175	-0.282	-0.623	0.843	1.729	2.034	1.375	-0.562	0.448	0	0.175
+4052	Latent transforming growth factor beta binding protein 1	1.754	1.734	1.646	1.062	1.383	-0.435	-1.984	-1.841	0	-1.68	-0.35	-2.108	0.987
+55034	Molybdenum cofactor sulfurase	-0.952	-1.549	-1.193	-1.328	-0.996	0.642	0.792	0.376	0.535	-1.043	0.217	0	0.368
+27290	"Serine peptidase inhibitor, Kazal type 4"	-1.137	-2.577	-2.882	-1.66	-1.904	0.501	0	1.506	0.66	0.291	0.474	0.053	-1.71
+9915	Aryl-hydrocarbon receptor nuclear translocator 2	-0.333	-0.985	-1.32	-1.372	-0.762	1.307	1.444	1.249	1.362	0	0.128	-0.422	0.186
+4919	Receptor tyrosine kinase-like orphan receptor 1	-1.046	-0.946	-1.119	-0.658	-0.076	0.807	1.091	0.156	0.901	0.153	0	-0.351	0.172
+23250	"ATPase, Class VI, type 11A"	-0.286	-0.286	-0.255	0	0.023	0.398	0.11	0.347	1.376	-1.118	-3.28	-1.483	0.577
+57214	KIAA1199	-0.262	-0.384	-0.573	-0.25	-1.477	2.922	1.945	4.25	3.456	0.394	1.049	-1.353	0
+1291	"Collagen, type VI, alpha 1"	1.701	2.828	2.278	1.252	2.094	-2.671	-1.09	0	0.05	-1.523	-3.474	-1.715	-0.215
+4739	"Neural precursor cell expressed, developmentally down-regulated 9"	0	-1.197	0.159	-0.336	-0.592	0.384	1.142	2.867	1.445	1.462	-0.023	-0.802	-0.345
+81606	Limb bud and heart development homolog (mouse)	-0.694	-0.759	-0.598	-2.091	-2.021	0	0.693	1.238	1.039	0.589	0.642	0.747	-0.606
+7025	"Nuclear receptor subfamily 2, group F, member 1"	0.026	0.499	0.026	0.146	-0.081	-3.494	-3.83	-2.626	-1.451	0	0.473	-0.541	0.092
+2995	Glycophorin C (Gerbich blood group)	2.721	2.806	2.948	2.126	2.836	-1.138	-0.647	-0.392	-0.866	2.163	0	-0.402	-1.313
+51129	Angiopoietin-like 4	0	1.033	0.01	0.873	0.424	-0.798	-1.253	-2.708	-1.68	-0.51	0.583	0.946	-1.273
+5003	"Solute carrier family 22 (organic cation transporter), member 18 antisense"	1.787	1.215	1.796	1.226	1.607	-1.103	-0.097	-0.915	0	-0.8	-0.257	-1.16	0.256
+2115	Ets variant gene 1	1.182	1.297	1.265	0	0.965	-0.54	-0.796	-0.614	-0.284	-0.862	0.357	0.054	-0.295
+4061	"Lymphocyte antigen 6 complex, locus E"	-0.703	-1.14	-1.759	-0.621	0.149	-0.387	0.503	1.608	1.782	0.653	-1.797	0	0.133
+3821	"Killer cell lectin-like receptor subfamily C, member 1"	2.348	1.545	1.763	0.662	2.326	-2.215	-0.852	-0.321	-3.09	-1.304	0	0.497	-3.068
+5799	"Protein tyrosine phosphatase, receptor type, N polypeptide 2"	4.913	5.303	5.16	0.294	4.735	0	-0.134	-0.462	-0.436	-0.186	-0.462	-0.399	1.206
+8714	"ATP-binding cassette, sub-family C (CFTR/MRP), member 3"	0.132	-0.187	-0.176	0	1.951	3.479	2.48	3.744	3.448	-0.273	-0.1	-1.782	-1.202
+4803	"Nerve growth factor, beta polypeptide"	-1.7	-1.311	-0.827	-0.071	-2.335	0.774	-1.479	1.012	1.01	1.008	0	1.112	0.381
+64663	"SPANX family, member C"	0.195	-0.194	0	1.903	1.175	-3.355	-6.366	-1.973	-2.124	1.586	1.432	-0.544	1.688
+397	Rho GDP dissociation inhibitor (GDI) beta	0.09	0.138	-0.018	0	0.162	-0.979	-2.394	-3.523	-1.96	0.429	0.034	0.182	-0.743

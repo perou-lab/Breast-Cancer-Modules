@@ -1,0 +1,14 @@
+Package: BreastCancerModules
+Title: Calculates Gene Expression-Based Modules Curated in the Perou Lab
+Version: 0.0.1
+Authors@R: 
+    person("Matthew", "Sutcliffe", , "matthew_sutcliffe@med.unc.edu", role = c("aut", "cre"))
+Description: This R package calculates gene expression module scores from gene expression data, particularly for breast cancer research. It includes a curated collection of approximately 1000 biologically-relevant modules compiled from the literature, which can be used in differential expression analysis and other genomic analyses instead of individual genes. The package supports median-based calculations, centroid-based correlations, and more complex models.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Depends: 
+    R (>= 3.5)
+LazyData: true

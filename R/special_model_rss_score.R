@@ -1,0 +1,17 @@
+# RSS_Score_CCR.2018_PMID.29921729
+rss_score <- function(x, input_species = "human") {
+	rss_score_model_i <- rss_score_model
+	if (input_species == "mouse") {
+		rss_score_model_i$ensembl_id <- babel_ensembl$mouse_ensembl_id[match(x = rss_score_model_i$ensembl_id, table = babel_ensembl$human_ensembl_id)]
+	}
+	rss_score_model_i <- rss_score_model_i[rss_score_model_i$ensembl_id %in% row.names(x) & !is.na(rss_score_model_i$ensembl_id), ]
+	
+	x <- x[rss_score_model_i$ensembl_id, ]
+	
+	# x <- t(scale(t(x)))
+	# x[is.na(x)] <- 0
+	
+	x_rss_score <- apply(X = x, MARGIN = 2, FUN = function(x_i) sum(x_i * rss_score_model_i$Coefficient))
+	
+	return(list("RSS_Score_CCR.2018_PMID.29921729" = x_rss_score))
+}
