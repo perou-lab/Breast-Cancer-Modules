@@ -11,7 +11,7 @@ oncotypeDX_research <- function(x, input_species = "human") {
 	
 	genes <- setNames(ensembl_ids, genes)
 	
-	if (!any(genes %in% row.names(x))) {
+	if (!all(genes %in% row.names(x))) {
 		x_add <- matrix(data = rep(0, sum(!(genes %in% row.names(x))) * ncol(x)), 
 						ncol = ncol(x))
 		row.names(x_add) <- genes[!(genes %in% row.names(x))]
