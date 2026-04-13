@@ -16,3 +16,8 @@ Calculates gene expression module scores, including a curated collection of appr
 
 ### Installation/Use
 For now, we recommend cloning the GitHub repository, then using the `devtools` package and its `load_all()` function to load this R package.
+
+### Citation
+The code for this R package was formalized for the analyses in Sutcliffe et. al. "Transcriptomic profiling of mouse mammary tumors enables prognostic and predictive biomarker discovery for human breast cancers", which is currently available on bioRxiv:
+
+https://doi.org/10.64898/2026.02.28.707759
