@@ -47,15 +47,11 @@ calculate_centroid_scores <- function(x,
 			# Pearson correlation - must match cor(..., use = "complete.obs") exactly
 			# The original uses cor() which centers each pair using only complete observations
 			# We need to match this behavior exactly to avoid numerical differences
-			correlation_scores <- apply(x_subset, 2, function(sample_i) {
-				cor(x = sample_i, y = centroid_vec, use = "complete.obs", method = "pearson")
-			})
+			correlation_scores <- cor(centroid_vec, x_subset, use = "complete.obs", method = "pearson")
 		} else if (grepl(pattern = "Scorr", x = centroid_names[i_centroid], ignore.case = TRUE)) {
 			# Spearman correlation - must match cor(..., use = "complete.obs") exactly
 			# The original uses cor() which handles ranking and missing values in a specific way
-			correlation_scores <- apply(x_subset, 2, function(sample_i) {
-				cor(x = sample_i, y = centroid_vec, use = "complete.obs", method = "spearman")
-			})
+			correlation_scores <- cor(centroid_vec, x_subset, use = "complete.obs", method = "spearman")
 		} else {
 			stop("unrecognized centroid name")
 		}
